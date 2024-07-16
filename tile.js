@@ -1,6 +1,6 @@
 class Tile {
 
-    constructor(i){
+    constructor(i, img){
         this.index = i;
         this.img = img;
     }
